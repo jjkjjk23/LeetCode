@@ -61,6 +61,7 @@ words[i] consists of only English letters and symbols.
 words[i].length <= maxWidth
 */
 
+#include <iostream>
 #include <vector>
 #include <string>
 using namespace std;
@@ -118,9 +119,13 @@ public:
     }
 };
 
-
 int main(){
+    using namespace std;
     Solution solution;
-    vector<string> prompt = {"hello", "buddy", "I", "am", "Jacob", "Keller", "what", "do", "you", "do"};
+    vector<string> prompt = {"hello", "I", "am", "Jacob", "Keller", "what", "do", "you", "do"};
     vector<string> answer = solution.fullJustify(prompt,7);
+    for (int i = 0; i<answer.size(); i++){
+        cout << answer[i] << '\n';
+    }
+    return 0;
 };
