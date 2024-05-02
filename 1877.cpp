@@ -36,8 +36,8 @@ n == nums.length
 n is even.
 1 <= nums[i] <= 105
 */
-#include<iostream>
 #include<vector>
+#include<algorithm>
 using namespace std;
 class Solution {
 public:
@@ -51,3 +51,6 @@ public:
     }
 };
 
+int main() {
+  return 0;
+}

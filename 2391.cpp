@@ -81,3 +81,7 @@ public:
         return garbages['M']+garbages['P']+garbages['G'];
     }
 };
+int main() {
+  return 0;
+}
+
