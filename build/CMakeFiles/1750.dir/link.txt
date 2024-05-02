@@ -1,0 +1,1 @@
+/usr/bin/clang-18  -lstdc++ CMakeFiles/1750.dir/1750.cpp.o -o 1750

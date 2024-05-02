@@ -1,0 +1,1 @@
+/usr/bin/clang-18  -lstdc++ CMakeFiles/1424.dir/1424.cpp.o -o 1424

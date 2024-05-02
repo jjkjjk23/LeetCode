@@ -1,0 +1,1 @@
+/usr/bin/clang-18  -lstdc++ CMakeFiles/1980.dir/1980.cpp.o -o 1980

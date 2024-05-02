@@ -1,0 +1,1 @@
+/usr/bin/clang-18  -lstdc++ CMakeFiles/68.dir/68.cpp.o -o 68

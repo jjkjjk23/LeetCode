@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/jjkjjk23/LeetCode/build",
+  "command": "/usr/bin/clang-18    -lstdc++ -std=gnu++23 -o CMakeFiles/1424.dir/1424.cpp.o -c /home/jjkjjk23/LeetCode/1424.cpp",
+  "file": "/home/jjkjjk23/LeetCode/1424.cpp",
+  "output": "CMakeFiles/1424.dir/1424.cpp.o"
+},
+{
+  "directory": "/home/jjkjjk23/LeetCode/build",
+  "command": "/usr/bin/clang-18    -lstdc++ -std=gnu++23 -o CMakeFiles/1750.dir/1750.cpp.o -c /home/jjkjjk23/LeetCode/1750.cpp",
+  "file": "/home/jjkjjk23/LeetCode/1750.cpp",
+  "output": "CMakeFiles/1750.dir/1750.cpp.o"
+},
+{
+  "directory": "/home/jjkjjk23/LeetCode/build",
+  "command": "/usr/bin/clang-18    -lstdc++ -std=gnu++23 -o CMakeFiles/1877.dir/1877.cpp.o -c /home/jjkjjk23/LeetCode/1877.cpp",
+  "file": "/home/jjkjjk23/LeetCode/1877.cpp",
+  "output": "CMakeFiles/1877.dir/1877.cpp.o"
+},
+{
+  "directory": "/home/jjkjjk23/LeetCode/build",
+  "command": "/usr/bin/clang-18    -lstdc++ -std=gnu++23 -o CMakeFiles/1980.dir/1980.cpp.o -c /home/jjkjjk23/LeetCode/1980.cpp",
+  "file": "/home/jjkjjk23/LeetCode/1980.cpp",
+  "output": "CMakeFiles/1980.dir/1980.cpp.o"
+},
+{
+  "directory": "/home/jjkjjk23/LeetCode/build",
+  "command": "/usr/bin/clang-18    -lstdc++ -std=gnu++23 -o CMakeFiles/2391.dir/2391.cpp.o -c /home/jjkjjk23/LeetCode/2391.cpp",
+  "file": "/home/jjkjjk23/LeetCode/2391.cpp",
+  "output": "CMakeFiles/2391.dir/2391.cpp.o"
+},
+{
+  "directory": "/home/jjkjjk23/LeetCode/build",
+  "command": "/usr/bin/clang-18    -lstdc++ -std=gnu++23 -o CMakeFiles/463.dir/463.cpp.o -c /home/jjkjjk23/LeetCode/463.cpp",
+  "file": "/home/jjkjjk23/LeetCode/463.cpp",
+  "output": "CMakeFiles/463.dir/463.cpp.o"
+},
+{
+  "directory": "/home/jjkjjk23/LeetCode/build",
+  "command": "/usr/bin/clang-18    -lstdc++ -std=gnu++23 -o CMakeFiles/68.dir/68.cpp.o -c /home/jjkjjk23/LeetCode/68.cpp",
+  "file": "/home/jjkjjk23/LeetCode/68.cpp",
+  "output": "CMakeFiles/68.dir/68.cpp.o"
+}
+]
